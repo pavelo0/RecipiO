@@ -42,7 +42,7 @@ The project demonstrates modern frontend patterns: type-safe routing, state mana
 
 ### AI API
 
-- 🤖 **DeepSeek SDK** for generative recipe logic
+- 🤖 **Groq API** for generative recipe logic (OpenAI-compatible, free tier available)
 
 ---
 
